@@ -1,0 +1,9 @@
+---
+title: "Grocery List Persisted Via AJAX"
+type: "exercise"
+description: "Use AJAX in a React application within Rails to persist data"
+tags: "javascript, ajax, react, rails-api"
+ignore:
+- "node_modules/"
+- "grocery-list-persisted-via-ajax.md"
+- "app/assets/javascripts/bundle.js"

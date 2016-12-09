@@ -1,0 +1,17 @@
+li.grocery {
+  font-size: 2.5rem;
+
+  &::before {
+    content: "• ";
+    color: $contessa;
+  }
+
+  button.button {
+    background-color: $contessa;
+    margin: 0;
+  }
+
+  div {
+    display: inline-block;
+  }
+}
